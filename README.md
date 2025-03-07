@@ -2,4 +2,4 @@
 3年くらいかけてJavaScriptを使ったサーバーサイドおよびフロントエンドに強みをもった
 エンジニア像に到達することを目標とします。
 業務でTypeScriptを使用しているので、
-サバイバルTypeScript(https://typescriptbook.jp/)を教材にして日々の学習を進めていきます。
+サバイバルTypeScript(https://typescriptbook.jp/) を教材にして日々の学習を進めていきます。
