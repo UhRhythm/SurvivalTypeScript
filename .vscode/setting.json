@@ -1,0 +1,5 @@
+{
+  "typescript.suggest.completeFunctionCalls": false,
+  "javascript.suggest.completeFunctionCalls": false,
+  "github.copilot.editor.enableAutoCompletions": false
+}

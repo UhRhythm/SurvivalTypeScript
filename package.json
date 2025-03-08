@@ -1,0 +1,22 @@
+{
+  "name": "survivaltypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UhRhythm/SurvivalTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UhRhythm/SurvivalTypeScript/issues"
+  },
+  "homepage": "https://github.com/UhRhythm/SurvivalTypeScript#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.2"
+  }
+}
